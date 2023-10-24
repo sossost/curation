@@ -15,6 +15,8 @@
 - [Next) 서버 컴포넌트(React Server Component)에 대한 고찰](https://velog.io/@2ast/React-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8React-Server-Component%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
 - [Next.js 13 앱 디렉토리에서 React-Query 를 설정하는 방법](https://codevoweb.com/setup-react-query-in-nextjs-13-app-directory/)
 
+## State Management
+- [리액트 상태관리 라이브러리, 어떤것을 써야 할까?](https://yozm.wishket.com/magazine/detail/2233/)
 
 ## Design System
 - [디자인 시스템 모아 보기](https://brunch.co.kr/@onbeak/7)
