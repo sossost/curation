@@ -9,6 +9,7 @@
 ## JavaScript
 - [ES6 이후의 변경점 총정리](https://polarb-raf.dev/es-6-%EC%9D%B4%ED%9B%84%EC%9D%98-%EB%B3%80%EA%B2%BD%EC%A0%90-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 - [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
+- [commonjs란 무엇인가?](https://yceffort.kr/2023/05/what-is-commonjs)
 
 ## React
 - [추상이란 무엇일까](https://evan-moon.github.io/2023/01/15/what-is-abstract/)
