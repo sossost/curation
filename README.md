@@ -14,6 +14,7 @@
 - [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
 - [commonjs란 무엇인가?](https://yceffort.kr/2023/05/what-is-commonjs)
 - [자바스크립트의 메모리 누수와 해결방법](https://yceffort.kr/2020/07/memory-leaks-in-javascript)
+- [당신이 모르는 자바스크립트 메모리 누수의 비밀](https://ui.toast.com/posts/ko_20210611)
 
 ## React
 - [리액트의 생명주기와 메소드들](https://react.vlpt.us/basic/25-lifecycle.html)
