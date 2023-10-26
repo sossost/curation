@@ -12,6 +12,7 @@
 - [commonjs란 무엇인가?](https://yceffort.kr/2023/05/what-is-commonjs)
 
 ## React
+- [리액트의 생명주기와 메소드들](https://react.vlpt.us/basic/25-lifecycle.html)
 - [추상이란 무엇일까](https://evan-moon.github.io/2023/01/15/what-is-abstract/)
 - [React 컴포넌트와 추상화](https://fe-developers.kakaoent.com/2022/221020-component-abstraction/)
 - [(번역) React 18이 애플리케이션 성능을 개선하는 방법](https://velog.io/@sehyunny/how-react-18-improves-app-perf)
