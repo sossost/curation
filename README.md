@@ -13,7 +13,9 @@
 - [ES6 이후의 변경점 총정리](https://polarb-raf.dev/es-6-%EC%9D%B4%ED%9B%84%EC%9D%98-%EB%B3%80%EA%B2%BD%EC%A0%90-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 - [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
 - [commonjs란 무엇인가?](https://yceffort.kr/2023/05/what-is-commonjs)
-- [자바스크립트의 메모리 누수와 해결방법](https://yceffort.kr/2020/07/memory-leaks-in-javascript## React)
+- [자바스크립트의 메모리 누수와 해결방법](https://yceffort.kr/2020/07/memory-leaks-in-javascript)
+
+## React
 - [리액트의 생명주기와 메소드들](https://react.vlpt.us/basic/25-lifecycle.html)
 - [추상이란 무엇일까](https://evan-moon.github.io/2023/01/15/what-is-abstract/)
 - [React 컴포넌트와 추상화](https://fe-developers.kakaoent.com/2022/221020-component-abstraction/)
