@@ -25,6 +25,7 @@
 - [이제부터 이 컴포넌트는 제 겁니다](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/)
 - [합성으로 관심사를 분리하기](https://happysisyphe.tistory.com/62)
 - [합성 컴포넌트로 재사용성 극대화하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
+- [Suspense for Data Fetching의 작동 원리와 컨셉 (feat.대수적 효과)](https://maxkim-j.github.io/posts/suspense-argibraic-effect/)
 
 ## Next
 - [Next) 서버 컴포넌트(React Server Component)에 대한 고찰](https://velog.io/@2ast/React-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8React-Server-Component%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
