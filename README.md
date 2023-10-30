@@ -1,5 +1,6 @@
 # curation
-혼자 읽기 아까운 보물같은 글들
+이해할때까지 꾸준히 볼,
+혼자 보기 아까운 보물같은 글들
 
 ## CS
 - [여러 메모리 관리 방법들](https://kimchunsick.me/2022-01-21-memory-management-method/)
