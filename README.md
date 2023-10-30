@@ -27,6 +27,7 @@
 - [합성으로 관심사를 분리하기](https://happysisyphe.tistory.com/62)
 - [합성 컴포넌트로 재사용성 극대화하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
 - [Suspense for Data Fetching의 작동 원리와 컨셉 (feat.대수적 효과)](https://maxkim-j.github.io/posts/suspense-argibraic-effect/)
+- [Virtual DOM을 왜 빠르다고 하는가](https://dont-stay-hungry.tistory.com/3)
 
 ## Next
 - [Next) 서버 컴포넌트(React Server Component)에 대한 고찰](https://velog.io/@2ast/React-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8React-Server-Component%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
