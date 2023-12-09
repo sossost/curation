@@ -37,6 +37,7 @@
 
 ## State Management
 - [리액트 상태관리 라이브러리, 어떤것을 써야 할까?](https://yozm.wishket.com/magazine/detail/2233/)
+- [Recoil을 활용한 손쉬운 상태 관리](https://techblog.yogiyo.co.kr/recoil%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%86%90%EC%89%AC%EC%9A%B4-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-b70b32650582)
 
 ## Design System
 - [디자인 시스템 모아 보기](https://brunch.co.kr/@onbeak/7)
